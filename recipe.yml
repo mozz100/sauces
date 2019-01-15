@@ -1,11 +1,10 @@
 description:
-  "a sauce made of clarified butter emulsified in egg yolks and white wine vinegar and flavored with herbs"
+  "a variation of béarnaise without tarragon or chervil, plus tomato purée"
 type:
   "sauce"
 ingredients:
   - butter, melted
-  - chervil
   - egg yolk
   - shallots
-  - tarragon
+  - tomato pureée
   - white wine vinegar
