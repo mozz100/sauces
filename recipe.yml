@@ -1,6 +1,9 @@
 description:
-  "a medium to dark-orange confectionery product made by heating a variety of sugars"
+  "a soft, dense, chewy candy"
 type:
-  "confectionery"
+  "candy"
 ingredients:
+  - butter
+  - cream
   - sugar
+  - vanilla
