@@ -1,6 +1,7 @@
 description:
-  "a medium to dark-orange confectionery product made by heating a variety of sugars"
+  "made by mixing caramelized sugar with cream"
 type:
   "confectionery"
 ingredients:
+  - cream
   - sugar
