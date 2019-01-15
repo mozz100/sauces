@@ -1,8 +1,11 @@
 description:
-  "an emulsion of egg yolk, butter and lemon"
+  "hollandaise with cream, horseradish, and thyme"
 type:
   "sauce"
 ingredients:
   - butter, melted
+  - cream
   - egg yolk
+  - horseradish
   - lemon juice
+  - thyme
