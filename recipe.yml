@@ -1,8 +1,9 @@
 description:
-  "a very simple white sauce of flour, butter and milk"
+  "a béchamel sauce with shredded or grated Gruyère cheese"
 type:
   "sauce"
 ingredients:
   - butter
   - flour
+  - cheese, gruyère
   - milk
