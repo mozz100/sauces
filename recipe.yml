@@ -1,6 +1,7 @@
 description:
-  "a medium to dark-orange confectionery product made by heating a variety of sugars"
+  "produced in the same way as regular caramel, but with larger amounts of salt added"
 type:
   "confectionery"
 ingredients:
+  - salt
   - sugar
