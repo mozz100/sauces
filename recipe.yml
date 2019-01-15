@@ -1,8 +1,10 @@
 description:
-  "a savoury sauce, made from a roux and a light stock"
+  "culinary sauce prepared with fish velouté, cream, butter and egg yolk"
 type:
   "sauce"
 ingredients:
   - butter
+  - cream
+  - egg yolk
   - flour
-  - stock
+  - stock, fish
