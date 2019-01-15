@@ -1,1 +1,3 @@
-List ingredients alphabetically, with quantities as integer percentages.
+Family tree of sauces in git.  Just because.
+
+![git tree](screenshot.png)
