@@ -1,8 +1,9 @@
 description:
-  "an emulsion of egg yolk, butter and lemon"
+  "a sauce made of clarified butter emulsified in egg yolks and white wine vinegar and flavored with herbs"
 type:
   "sauce"
 ingredients:
   - butter, melted
   - egg yolk
-  - lemon juice
+  - herbs
+  - white wine vinegar
