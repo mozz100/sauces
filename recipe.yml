@@ -1,8 +1,9 @@
 description:
-  "a stable emulsion of oil, egg yolk, and acid, either vinegar or lemon juice"
+  "a creamy, pale yellow condiment based on an emulsion of about 25–50 percent oil in water, emulsified by egg yolk and acidulated by spirit vinegar"
 type:
   "condiment"
 ingredients:
   - egg yolk
   - oil
+  - water
   - vinegar
