@@ -1,8 +1,9 @@
 description:
-  "a stable emulsion of oil, egg yolk, and acid, either vinegar or lemon juice"
+  "a condiment composed of mayonnaise and finely chopped capers"
 type:
   "condiment"
 ingredients:
+  - capers
   - egg yolk
   - oil
   - vinegar
